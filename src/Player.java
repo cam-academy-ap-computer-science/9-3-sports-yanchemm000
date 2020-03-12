@@ -6,6 +6,11 @@ public class Player {
 	public Player(String name, String team, int age) {
 
 	}
+	public String toString(String a) {
+		a.toString();
+		return a;
+		
+	}
 
 }
 
